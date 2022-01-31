@@ -33,8 +33,8 @@ set background=dark
 hi Normal       ctermbg=234  ctermfg=246 cterm=None         guibg=000000  guifg=#949494 
 hi NormalFloat  ctermbg=234  ctermfg=246 cterm=None         guibg=000000  guifg=#949494 
 hi Nontext      ctermbg=234  ctermfg=246 cterm=None         guibg=000000  guifg=#949494 
-hi Question     ctermbg=234  ctermfg=246 cterm=Bold         guibg=#1c1c1c  guifg=#949494 gui=Bold
-hi MoreMsg      ctermbg=234  ctermfg=246 cterm=Bold         guibg=#1c1c1c  guifg=#949494 gui=Bold
+hi Question     ctermbg=234  ctermfg=246 cterm=Bold         guibg=#1d1f21  guifg=#949494 gui=Bold
+hi MoreMsg      ctermbg=234  ctermfg=246 cterm=Bold         guibg=#1d1f21  guifg=#949494 gui=Bold
 hi Visual       ctermbg=110  ctermfg=000 cterm=None         guibg=#87afd7  guifg=#000000 gui=None
 hi Comment      ctermbg=None ctermfg=242 cterm=None         guibg=None guifg=#6c6c6c gui=None
 hi Constant     ctermbg=None ctermfg=110 cterm=None         guibg=None guifg=#87afd7 gui=None
